@@ -1,0 +1,21 @@
+﻿# Archivos de build y compilacion
+bin/
+obj/
+
+
+# Rideer
+.idea/
+
+# Las credenciales de Firebase Nunca deben subirse a git
+**/Config/firebas-credentials.json
+
+# Appsettings de desarrollo puede tener datos sensibles
+appsetings.Development.json
+
+# Sistema Operativo 
+.DS_Store
+Thumbs.db
+
+3 Archivos de usuario Rider y Vs
+*.user
+*.suo
