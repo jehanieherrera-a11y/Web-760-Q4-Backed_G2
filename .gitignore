@@ -7,7 +7,7 @@ obj/
 .idea/
 
 # Las credenciales de Firebase Nunca deben subirse a git
-**/Config/firebas-credentials.json
+**/Config/firebase-credentials.json
 
 # Appsettings de desarrollo puede tener datos sensibles
 appsetings.Development.json
